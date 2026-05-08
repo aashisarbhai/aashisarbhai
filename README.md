@@ -18,15 +18,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashisarbhai&theme=tokyonight" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
